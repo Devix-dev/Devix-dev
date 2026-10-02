@@ -16,14 +16,14 @@
 
 ### 💫 About Me
 
-I'm **Shayan**, a builder passionate about creating modern SaaS products powered by AI.
+> *“Building software isn't just about writing code — it's about crafting products that solve real problems and create genuine value.”*
 
-I enjoy transforming ambitious ideas into polished products by combining thoughtful engineering, intuitive user experiences, and intelligent automation. For me, building software isn't just about writing code—it's about crafting products that solve real problems and make people's lives a little easier.
+I'm **Shayan**, a Full-Stack Developer and product builder passionate about creating modern SaaS products powered by AI. I transform ambitious concepts into polished, reliable software by combining thoughtful engineering, intuitive user experiences, and intelligent automation.
 
-* 🚀 **What drives me:** The challenge of turning complex ideas into simple, reliable, and enjoyable experiences. I pay close attention to architecture, performance, scalability, and every small detail because I believe great products are built through thousands of thoughtful decisions.
-* ⚡ **Product & Design:** Beyond core development, I'm deeply interested in product strategy, branding, and user experience. From refining landing pages to optimizing performance or designing AI-powered workflows, I strive to create products that feel fast, intuitive, and trustworthy from the very first interaction.
-* 📚 **Always Evolving:** Constantly learning, experimenting with emerging technologies, and pushing myself to improve—not just as a developer, but as an end-to-end product builder.
-* 💡 **Guiding Principle:** *"The best products aren't defined by the technologies behind them—they're defined by the value they create for the people who use them."*
+- **Specialization:** End-to-end SaaS development with Next.js, React, TypeScript, and Node.js
+- **Engineering:** Focus on scalable architectures, clean code patterns, and high-performance APIs
+- **Design & UX:** Creating sleek, responsive interfaces that feel fast, intuitive, and trustworthy
+- **Continuous Learning:** Always experimenting with modern web standards, AI workflows, and system design
 
 ---
 
