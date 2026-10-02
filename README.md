@@ -74,16 +74,6 @@ I enjoy transforming ambitious ideas into polished products by combining thought
 
 ---
 
-### 🌟 Featured Highlights
-
-* **[Novakar](https://github.com/Devix-dev/Novakar-Releases)** — Modern AI SaaS platform for generating professional documents faster and smarter. Full-stack monorepo with Next.js frontend, Node.js backend, and Docker deployment.
-* **[Takbargh](https://takbargh.vercel.app)** — Production e-commerce platform for handcrafted nuts & dried fruits built with Next.js and TypeScript.
-* **[Flexity](https://github.com/Devix-dev/Flexity-Landing)** — High-performance modern landing page powered by Next.js 16, React 19, Tailwind CSS v4, GSAP, and Framer Motion.
-* **[Food.io](https://devix-dev.github.io/Food.io/)** — Fast-food restaurant web application with responsive layout and rich interactive UI.
-* **[Pixel-Z](https://devix-dev.github.io/Pixel-Z/)** — Multiplayer ProjectZomboid gaming community hub.
-
----
-
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
